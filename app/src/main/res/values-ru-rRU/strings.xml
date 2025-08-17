@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BelUniApp</string>
+    <string name="account">Аккаунт</string>
+    <string name="wishlist">Сохраненное</string>
+    <string name="home">Главная</string>
+    <string name="myprofile">Мой профиль</string>
+    <string name="profilename">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="birth">Дата рождения</string>
+    <string name="gender">Пол</string>
+    <string name="details">Подробнее</string>
+    <string name="tuition">Стоимость обучения</string>
+    <string name="dorm">Общежитие</string>
+    <string name="website">Сайт</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="searchunis">Поиск университетов</string>
+    <string name="hellomain">Здравствуйте</string>
+</resources>

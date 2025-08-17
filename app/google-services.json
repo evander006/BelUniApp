@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049390160512",
+    "project_id": "beluniapp-a983e",
+    "storage_bucket": "beluniapp-a983e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049390160512:android:0db3ed5e8ee17049aca465",
+        "android_client_info": {
+          "package_name": "com.example.beluniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaWVFQMY1kaaCVixR1mHaYj39gm8W82Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

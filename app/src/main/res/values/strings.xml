@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BelUniApp</string>
+    <string name="account">Account</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="home">Home</string>
+    <string name="myprofile">My profile</string>
+    <string name="profilename">First name</string>
+    <string name="lastname">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="birth">Birth date</string>
+    <string name="gender">Gender</string>
+    <string name="details">Details</string>
+    <string name="tuition">Tuition</string>
+    <string name="dorm">Dormitory</string>
+    <string name="website">Website</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="searchunis">Search universities…</string>
+    <string name="hellomain">Hello</string>
+</resources>
